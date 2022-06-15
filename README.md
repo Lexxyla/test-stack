@@ -55,10 +55,10 @@ The functions used are:
 ### Examples
 
 ```console
-$jessiFer> ls
-basics.c    general.c  holberton.h  memory.c   shell.c
+$lexxyla> ls
+basics.c    general.c  main.h  memory.c   shell.c
 builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-
+Bamidele Adefolaju and Akinloye Oluwakemi
